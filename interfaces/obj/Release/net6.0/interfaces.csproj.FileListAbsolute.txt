@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/bin/Release/net6.0/interfaces
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/bin/Release/net6.0/interfaces.deps.json
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/bin/Release/net6.0/interfaces.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/bin/Release/net6.0/interfaces.dll
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/bin/Release/net6.0/interfaces.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/interfaces.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/interfaces.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/interfaces.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/interfaces.dll
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/refint/interfaces.dll
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/interfaces.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/interfaces.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/inheritance/interfaces/obj/Release/net6.0/ref/interfaces.dll
